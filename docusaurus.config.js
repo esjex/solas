@@ -47,7 +47,7 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
-          sidebarPath: './sidebars.js',
+          sidebarPath: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -85,24 +85,38 @@ const config = {
       },
       navbar: {
         title: 'Siobhan Fitzgerald-Gibson',
-        /* logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ], */
+          items: [
+    {
+      type: 'doc',
+      docId: 'index',
+      position: 'left',
+      label: 'Home',
+    },
+    {
+      type: 'doc',
+      docId: 'services',
+      position: 'left',
+      label: 'Services',
+    },
+    {
+      type: 'doc',
+      docId: 'portfolio',
+      position: 'left',
+      label: 'Portfolio',
+    },
+    {
+      type: 'doc',
+      docId: 'ai',
+      position: 'left',
+      label: 'AI policy',
+    },
+    {
+      type: 'doc',
+      docId: 'contact',
+      position: 'left',
+      label: 'Contact',
+    },
+  ],
       },
       footer: {
         style: 'dark',

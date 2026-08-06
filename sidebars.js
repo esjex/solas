@@ -20,13 +20,7 @@ const sidebars = {
 
   // But you can create a sidebar manually
   
-  mainSidebar: [
-    'index',
-    'services',
-    'portfolio',
-    'ai',
-    'contact'
-  ],
+  mainSidebar: [],
    
 };
 
