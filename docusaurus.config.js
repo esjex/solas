@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Siobhan Fitzgerald-Gibson',
   tagline: 'Technical Author, UX Writer, Content Strategist',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icons8-information-64.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
