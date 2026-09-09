@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# Siobhan Fitzgerald-Gibson
+# // Siobhan Fitzgerald-Gibson
 
-**Technical Author, UX Writer, Content Strategist**
+**Technical writer | Freelance | Brighton, UK**
 
 Hello! I'm an experienced technical communicator, available to help you turn complex information into clear, human-readable content.
 
