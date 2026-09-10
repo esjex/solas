@@ -2,7 +2,7 @@
 slug: /
 ---
 
-# // Siobhan Fitzgerald-Gibson
+# //  Siobhán Fitzgerald-Gibson
 
 **Technical writer | Freelance | Brighton, UK**
 
@@ -18,7 +18,7 @@ I'm particularly good at owning and producing these things:
 
 - **Documentation**: User manuals, API references, and docs tools
 - **Learning materials**: Tutorials and walkthroughs
-- **Community content**: Technical articles and marketing content
+- **Community content**: Technical articles and blog content
 - **User interfaces**: UI text and user journeys
 - **Internal communication**: Technical docs and processes to keep teams connected
 
@@ -27,3 +27,9 @@ I'm particularly good at owning and producing these things:
 Information is empowering. Beyond my client work, I contribute docs and communications support to hobby projects and community events. I also write zines and resources, provide healthcare advocacy, volunteer at games and maker/hacker festivals, and teach music in a local samba band.
 
 Subject to conditions, I can offer a lower rate on projects and consultations for small businesses, non-profit organisations, and social causes.
+
+## Name pronunciation
+
+My first name is Siobhán, pronounced **_shiv-AWN_**. 
+
+Please don't worry about pronouncing it wrong - I can assure you I've heard it all!
