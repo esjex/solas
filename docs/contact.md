@@ -1,7 +1,6 @@
 # Contact
 
-This page is under construction! 
+You can contact me via: 
 
-In the meantime, you can email me here: 
-
-slfgibson@proton.me
+* **Email**: siobhan@fitzgerald-gibson.com
+* **LinkedIn**: [Siobhan Fitzgerald-Gibson](https://www.linkedin.com/in/siobhan-fitzgerald-gibson/)
