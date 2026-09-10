@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Siobhan Fitzgerald-Gibson',
-  tagline: 'Technical Author, UX Writer, Content Strategist',
+  tagline: 'Technical Author, Content Strategist',
   favicon: 'img/icons8-information-64.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -47,11 +47,9 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
-          sidebarPath: false,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+    'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         /* blog: {
           showReadingTime: true,
@@ -82,20 +80,8 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Siobhan Fitzgerald-Gibson',
+        title: '// Siobhan Fitzgerald-Gibson',
           items: [
-    {
-      type: 'doc',
-      docId: 'index',
-      position: 'left',
-      label: 'Home',
-    },
-    {
-      type: 'doc',
-      docId: 'services',
-      position: 'left',
-      label: 'Services',
-    },
     {
       type: 'doc',
       docId: 'portfolio',
@@ -104,15 +90,19 @@ const config = {
     },
     {
       type: 'doc',
-      docId: 'ai',
-      position: 'left',
-      label: 'AI policy',
-    },
-    {
-      type: 'doc',
       docId: 'contact',
       position: 'left',
       label: 'Contact',
+    },
+    {
+      href: 'https://github.com/esjex',
+      label: 'GitHub',
+      position: 'right',
+    },
+    {
+      href: 'https://www.linkedin.com/in/your-linkedin-handle',
+      label: 'LinkedIn',
+      position: 'right',
     },
   ],
       },
