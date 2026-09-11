@@ -2,6 +2,8 @@
 
 On this page you’ll find some selected case summaries, work samples, and testimonials*.
 
+For more information on my work history, see my [**LinkedIn profile**](https://www.linkedin.com/in/siobhan-fitzgerald-gibson).
+
 ---
 
 ## Unity Technologies: Software docs from start-up to enterprise

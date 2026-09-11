@@ -100,7 +100,7 @@ const config = {
       position: 'right',
     },
     {
-      href: 'https://www.linkedin.com/in/your-linkedin-handle',
+      href: 'https://www.linkedin.com/in/siobhan-fitzgerald-gibson',
       label: 'LinkedIn',
       position: 'right',
     },
