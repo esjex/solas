@@ -1,8 +1,10 @@
 # AI policy
 
-AI tools are increasingly prevalent in software development, and the nature of technical writing is moving with the times. Technical writers now write for both human users and AI tools, creating the source material that LLMs use to seek information. 
+As a technical writer, I often write documentation that acts as the source material for both human users and AI tools.
 
-I am a user-focused technical writer, and I take a users-first approach to technical writing. My professional interests lean toward human user experience, through the principles of information architecture and cognitive accessibility. An LLM can understand anything written for a human, but a human can't necessarily understand everything written for an LLM.
+I am a user-focused technical writer, and I take a human-first approach to technical writing. My professional interests lean toward human user experience, through the principles of information architecture and cognitive accessibility. 
+
+An LLM can understand anything written for a human, but a human can't necessarily understand everything written for an LLM.
 
 ## Using AI
 
