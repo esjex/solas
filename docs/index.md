@@ -2,7 +2,7 @@
 slug: /
 ---
 
-# //  Siobhán Fitzgerald-Gibson
+# //  Siobhan Fitzgerald-Gibson
 
 **Technical writer | Freelance | Brighton, UK**
 
