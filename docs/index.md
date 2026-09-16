@@ -1,5 +1,6 @@
 ---
 slug: /
+sidebar_label: "About me"
 ---
 
 # //  Siobhan Fitzgerald-Gibson
