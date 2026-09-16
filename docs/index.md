@@ -31,6 +31,6 @@ Subject to conditions, I can offer a lower rate on projects and consultations fo
 
 ## Name pronunciation
 
-My first name is Siobhán, pronounced **_shiv-AWN_**. 
+My first name is Siobhán, pronounced **_shiv-AWN_**. It rhymes with _dawn_, _lawn_, and _pawn_.
 
-Please don't worry about pronouncing it wrong - I can assure you I've heard it all!
+Please don't worry about pronouncing it wrong, but do look out for the tricky spelling if you need to type my email address!
