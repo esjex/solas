@@ -14,7 +14,7 @@ My fee for technical writing services is:
 
 **£450 per day (typically outside IR35, no VAT)**
 
-I share this upfront because I believe in transparency, and because it saves us both time. Reduced rates may be available for non-profits, charities, and mission-driven organisations — just ask.
+I share this upfront because I believe in transparency, and because it saves us both time. Reduced rates may be available for non-profits, charities, and mission-driven organisations; just ask.
 
 ## Get in touch
 
