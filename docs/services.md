@@ -48,11 +48,11 @@ My expertise covers many forms of software documentation, including:
 - Release notes and patch notes
 - Internal documentation portals
 
-I've worked with some incredibly complex technology, and I'm used to diving into unfamiliar products and figuring out how they actually work. I'm great at building mental models of technical systems, even from limited documentation or a developer's half-explained shorthand. If you're worried your software is too complicated for a non-developer to get their head around, feel free to [set up a free call](/contact) and try me!
+I've worked with some incredibly complex technology, and I'm used to diving into unfamiliar products and figuring out how they actually work. I'm great at building mental models of technical systems, even from limited documentation or a developer's half-explained shorthand. If you're worried your software is too complicated for a non-developer to get their head around, [**book a free consultation**](/contact) and try me!
 
 ## Designing documentation
 
-If your documentation already exists, but has grown into something sprawling, duplicated, or impossible to navigate, I usually start with a plan to fix it.
+If your documentation already exists, but has grown into something sprawling, unmanageable, or impossible to navigate, I usually start with a plan to fix it.
  
 Docs content design and strategy involves deciding which pages should exist, how they should be organised, and how people will realistically find them. I use established information design frameworks like Diátaxis and DITA, and I pay close attention to cognitive accessibility, structuring content so it's easy to find and easy to follow.
  
@@ -62,13 +62,13 @@ The longer-term goal is usually cultural: getting a team confident enough to thi
 
 ## Improving docs processes
 
-Usually, my goal isn't to just hand you a finished set of docs; it's to help your team take ownership of documentation. This relies on your **workflows** and your **team's culture**.
+Usually, my goal isn't to just hand you a finished set of docs; it's to help your team take ownership of documentation. This relies on your workflows and your team's culture.
 
 ### Docs workflows
 
-I can help you set up authoring and review workflows that catch problems early, and set up the right tooling to reduce onboarding friction.
+I can help you set up authoring and review workflows that catch problems early, and set up the right tooling to reduce docs friction.
   
-Docs work succeeds when your developers aren't afraid to jump in and get involved, so I focus on tools and workflows that complement your existing processes. 
+Docs work succeeds when your developers aren't afraid to jump in and get involved, so I prioritise tools and workflows that complement your existing processes. 
 
 **Tooling I work with**: 
 - Source control (Git, Mercurial)

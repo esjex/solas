@@ -1,6 +1,6 @@
 # Portfolio
 
-On this page you’ll find some selected case summaries, work samples, and testimonials*.
+Selected case summaries, work samples, and testimonials.
 
 For more information on my work history, see my [**LinkedIn profile**](https://www.linkedin.com/in/siobhan-fitzgerald-gibson).
 
@@ -62,4 +62,4 @@ Working alongside a subject-matter expert who provided the technical depth, I le
 
 ---
 
-*_Testimonials on this page are anonymous for privacy reasons. Named references and detailed case studies are available upon request._
+_Testimonials on this page are anonymous for privacy reasons. Named references and detailed case studies are available upon request._
