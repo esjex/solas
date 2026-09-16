@@ -62,4 +62,4 @@ Working alongside a subject-matter expert who provided the technical depth, I le
 
 ---
 
-*_Testimonials on this page are anonymous for privacy reasons. Named references are available upon request._
+*_Testimonials on this page are anonymous for privacy reasons. Named references and detailed case studies are available upon request._
