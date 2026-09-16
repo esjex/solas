@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Siobhan Fitzgerald-Gibson',
-  tagline: 'Technical Author, Content Strategist',
+  tagline: 'Technical Writer, Content Designer, UX Writer',
   favicon: 'img/icons8-information-64.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

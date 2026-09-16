@@ -1,9 +1,14 @@
 ---
 slug: /
 sidebar_label: "Home"
+title: Siobhan Fitzgerald-Gibson
 ---
 
-# //  Siobhan Fitzgerald-Gibson
+<head>
+  <title>Technical Writer | Siobhan Fitzgerald-Gibson</title>
+</head>
+
+# Siobhan Fitzgerald-Gibson
 
 **Technical writer | Freelance | Brighton, UK**
 
