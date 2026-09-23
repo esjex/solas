@@ -10,7 +10,7 @@ For more information on my work history, see my [**LinkedIn profile**](https://w
 
 Over nine years at Unity Technologies I grew from an individual contributor to Chief Technical Editor, and helped scale the documentation team from 4 to 60 writers. I built the writing guidance and quality standards that still define Unity's documentation today, working across technical documentation, training videos, blog posts, and internal communications. I also mentored junior writers and produced company-wide training materials on technical communication.
 
-[**Download work samples**](https://fitzgerald-gibson.com/portfolio-siobhan-fitzgerald-gibson.zip) (PDFs)
+[**Download work samples**](pathname:///portfolio-siobhan-fitzgerald-gibson.zip) (PDFs)
 
 #### Testimonials
 
