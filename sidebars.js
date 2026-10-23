@@ -7,7 +7,18 @@ const sidebars = {
   mainSidebar: [
     'index',
     'services',
-    'portfolio',
+    {
+      type: 'category',
+      label: 'Portfolio',
+      link: { type: 'doc', id: 'portfolio' },
+      collapsed: false,
+      items: [
+        'portfolio/unity',
+        'portfolio/npi',
+        'portfolio/apcoa',
+        'portfolio/skiller-whale',
+      ],
+    },
     'ai',
     'contact',
   ],
