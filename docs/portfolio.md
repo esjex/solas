@@ -8,7 +8,7 @@ For more information on my work history, see my [**LinkedIn profile**](https://w
 
 ## Unity Technologies: Software docs from start-up to enterprise
 
-Over nine years at Unity Technologies I grew from an individual contributor to Chief Technical Editor, and helped scale the documentation team from 4 to 60 writers. I built the writing guidance and quality standards that still define Unity's documentation today, working across technical documentation, training videos, blog posts, and internal communications. I also mentored junior writers and produced company-wide training materials on technical communication.
+Over nine years at Unity Technologies I grew from an individual contributor to Chief Technical Editor, and helped scale the documentation team from 4 to 60+ writers. I built the writing guidance and quality standards that still define Unity's documentation today, working across technical documentation, training videos, blog posts, and internal communications. I also mentored junior writers and produced company-wide training materials on technical communication.
 
 [**Download work samples**](pathname:///portfolio-siobhan-fitzgerald-gibson.zip) (PDFs)
 
@@ -35,7 +35,7 @@ I delivered a Docusaurus-based site from the project's GitHub repo, covering the
 
 ---
 
-## APCOA UK: Internal developer docs from scratch
+## APCOA: Internal developer docs from scratch
 
 Engaged as a technical writer and documentation strategist to build internal developer documentation to support the onboarding of new software engineers. This was also a knowledge management role, taking information from across the company and making it discoverable to all engineers.
 
