@@ -26,8 +26,8 @@ A minimum-viable standalone docset that could support users from any organisatio
 * **Used the product as a new user would**, working through it hands-on and noting exactly where I got stuck, to turn my own friction points into the docset's priorities.  
 * **Defined and documented the common tasks** a user would actually perform, building the minimum coverage needed for the whole process to make sense end-to-end, including how the different components and products relate to one another.  
 * **Chose tooling that fit.** I selected Docusaurus, a static site generator aligned to the client's existing tools and workflow, so documentation lives alongside their code and integrates with how they already work, rather than becoming a separate system to maintain.  
-* **Supported marketing content**, writing trade show messaging and representing the client at UK GovCamp 2025.
+* **Supported marketing content**, writing trade show messaging and representing the client at UK GovCamp 2026.
 
 ### Outcome
 
-NPI now has a minimum-viable docset that documents the whole prototyping process and describes how its components and products fit together; standalone enough to support users from any organisation, and to underpin user testing and procurement processes. The product and its messaging also drew strong, enthusiastic interest at UK GovCamp 2025.
+NPI now has a minimum-viable docset that documents the whole prototyping process and describes how its components and products fit together; standalone enough to support users from any organisation, and to underpin user testing and procurement processes. The product and its messaging also drew strong, enthusiastic interest at UK GovCamp 2026.

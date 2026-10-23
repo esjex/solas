@@ -3,7 +3,7 @@ title: "APCOA: Building internal developer docs from scratch"
 sidebar_label: "APCOA: Building internal developer docs from scratch"
 ---
 
-# APCOA UK: Building internal developer docs from scratch
+# APCOA: Building internal developer docs from scratch
 
 **Building a documentation system for an engineering team from the ground up**  
 *Freelance technical content designer · Internal documentation*
@@ -37,13 +37,13 @@ From there:
 * A repeatable AI-assisted workflow for converting notes and transcripts into draft docs.  
 * Full team adoption: the team committed to the new process and has continued to use the tools and workflow independently since handover.
 
-## Testimonials from APCOA UK
+## Testimonials from APCOA
 
 >_"We found this a very useful experience and exercise. That the whole team has engaged and bought into the process hopefully means that we'll carry on the good fight."_ <br/>
-— **Stewart Guy, Head of Product**
+— **Head of Product**
 
 >_"Siobhan brought an impressive combination of technical writing expertise, infectious positivity, and organisational superpowers to the team. Her upbeat energy, collaborative approach, and talent for helping the unorganised become organised makes her an invaluable colleague and a genuine pleasure to work with."_ <br/>
-— **Andy Moulton, Senior Software Developer**
+— **Senior Software Developer**
 
 >"Thanks for all your help Siobhan, we are in a much better place now, and I think we can all take on the challenge of bringing the now-existing documentation up to the standards that have been set out." <br/>
-— **Iain Milne, Senior Software Developer**
+— **Senior Software Developer**
